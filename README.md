@@ -1,6 +1,6 @@
 # Spotify-Clone
 
-aywa kda efsha5ny, ana 3ayz tnekny, tala3 myten elly 5alefony, ahm 7aga seeb el main fe 7alo w 7yat abok
+aywa kda efsha5ny, ana 3ayzk tnekny, tala3 myten elly 5alefony, ahm 7aga seeb el main fe 7alo w 7yat abok
 
 MATPUSHESH 3AL MAIN
 
