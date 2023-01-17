@@ -1,5 +1,5 @@
 from Filter import IFilter
-from Song import Song
+from song import Song
 
 class ListenCountFiltiration(IFilter):
     def getFilteredSongs()-> list[Song]:

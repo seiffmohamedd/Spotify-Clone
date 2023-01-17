@@ -1,5 +1,5 @@
 from Filter import IFilter
-from Song import Song
+from song import Song
 
 class ArtistFiltiration(IFilter):
     def getFilteredSongs() -> list[Song]:
